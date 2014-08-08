@@ -33,3 +33,8 @@ Creation:
   git remote add origin https://github.com/Coolwater357/vimDotFiles.git
   git push -u origin master
 
+  git add .
+  git commit -m "updated ..."
+  git push
+
+
