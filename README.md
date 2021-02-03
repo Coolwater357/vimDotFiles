@@ -6,7 +6,7 @@ Resource files associated with the vim editor
 Installation:
 ========
 
-  git clone get://github.com/Coolwater357/vimDotFiles.git ~/.vim
+  git clone git://github.com/Coolwater357/vimDotFiles.git ~/.vim
 
   Create slinks:
 
